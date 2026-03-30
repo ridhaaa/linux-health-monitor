@@ -21,4 +21,4 @@ A real-time Linux system monitoring tool that collects live metrics and uses Gro
 ## Sample Output
 AI analyzes your system and returns findings like disk usage warnings,
 failed services, suspicious logins, and recommendations.
-![output](screenshot.png)
+![output](Sample_output.png)
